@@ -9,10 +9,10 @@ title: "GDG DevFest 2016 by GDG Coimbatore"
 email: "gokulkarthickct@gmail.com"
 description: "GDG DevFest is a set of events all around the world. This time, in Coimbatore. Come join us, meet the Googlers and share what you know with others."
 baseurl: ""
-url: "https://gokulkarthick.github.io/gdgcbe.github.io/"
+url: "https://gdgcbe.github.io/"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
-googleAnalyticsSiteUrl: "gokulkarthick.github.io/gdgcbe.github.io/"
+googleAnalyticsSiteUrl: "gdgcbe.github.io/"
 
 # Organizer Info
 organizerName: "GDG Coimbatore"
